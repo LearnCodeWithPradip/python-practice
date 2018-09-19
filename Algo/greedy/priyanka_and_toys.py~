@@ -1,0 +1,6 @@
+n=int(raw_input(""))
+wt=[]
+#for in range(0,len(n))
+w=raw_input("").split()
+print w
+  
