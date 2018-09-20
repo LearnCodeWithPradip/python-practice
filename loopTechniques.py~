@@ -1,0 +1,3 @@
+#using enumerate
+
+for key , value in enumerate(['apple','banna','mango','orange']):

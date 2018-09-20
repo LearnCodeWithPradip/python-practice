@@ -35,7 +35,7 @@ class LinkedList(object):
     previous = None
     found = False
     while current and found is False:
-        if current.get_data() == data:
+  7      if current.get_data() == data:
             found = True
         else:
             previous = current

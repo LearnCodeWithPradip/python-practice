@@ -1,0 +1,3 @@
+city = ['pune','mumbai','nagpur','ahmednagar']
+for i in city:
+    print(i)

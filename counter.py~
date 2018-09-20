@@ -1,0 +1,10 @@
+'''counter is a container include in collection moule
+syntax = class collections.Counter([iterable-or-mapping])
+'''
+
+
+
+from collections import Counter 
+  
+z = ['blue', 'red', 'blue', 'yellow', 'blue', 'red'] 
+print(Counter(z)) 
